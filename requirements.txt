@@ -5,3 +5,13 @@ python-dotenv
 reportlab
 PyPDF2
 python-docx
+bs4
+wikipedia
+chromadb
+pandas
+openai
+duckdb
+sentence_transformers
+faiss-cpu
+langchain_chroma
+
